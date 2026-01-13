@@ -1,4 +1,4 @@
-# 🏏 IPL Analysis Dashboard (2008–2019 & 2025)
+# 🏏 IPL Analysis Dashboard (2008–2025)
 
 ## 📌 Hunar Intern – Task 1 (Power BI Project)
 
